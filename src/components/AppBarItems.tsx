@@ -14,8 +14,8 @@ export function AppBarItems() {
       </a>
       <span className="item">
         <StaticImage
-          src="https://eduardovelho.com/images/egvelho.jpg" //alterar
-          alt="Foto de egvelho" //alterar
+          src="src/images/vicrom.jpg" 
+          alt="Foto de vicrom" 
           width={36}
           height={36}
           style={{
